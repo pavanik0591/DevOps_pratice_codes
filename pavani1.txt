@@ -5,3 +5,4 @@ This is from Sprint IT Technologies:
 4.Git
 5.GitBash
 6.Versioncontrol
+7.Full stack
