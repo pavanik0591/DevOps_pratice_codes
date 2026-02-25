@@ -6,4 +6,4 @@ This is from Sprint IT Technologies:
 5.GitBash
 6.Versioncontrol
 7.JAVA
-8.SQL
+8.Python
