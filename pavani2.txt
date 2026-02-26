@@ -1,0 +1,7 @@
+It's about the Architecture plans
+1.planning
+1.Devolping
+3.Merging
+4.Sorting
+5.Interiors
+
