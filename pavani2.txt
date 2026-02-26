@@ -4,6 +4,11 @@ It's about the Architecture plans
 3.Merging
 4.Sorting
 5.Interiors
+<<<<<<< HEAD
 i
 iTo create a design for building
 6.Sculpturing
+=======
+To create a design for building
+Recreate of Business
+>>>>>>> a2f679182aa42a80d2632581a5c91af1db2073c4
